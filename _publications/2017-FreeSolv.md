@@ -3,7 +3,7 @@ title: "Approaches for Calculating Solvation Free Energies and Enthalpies Demons
 collection: publications
 permalink: /publication/2017-paper-title-number-1
 excerpt: 'Minireview about solvation free energy calculations and update of FreeSolv, a experimental and computational free energy of solvation database.'
-date: 2017
+date: 2017-06-11
 venue: 'Journal of Chemical & Engineering Data'
 paperurl: 'http://gduarter.github.io/files/2017-FreeSolv.pdf'
 citation: 'G. Duarte Ramos Matos, et al. (2017). &quot;Approaches for Calculating Solvation Free Energies and Enthalpies Demonstrated with an Update of the FreeSolv Database.&quot; <i>J. Chem. Eng. Data</i>. 62 (5) 1559-1569.'

@@ -16,6 +16,8 @@ One could say that the same assessment applies to Physical Chemistry _within_ Ch
 
 Brazilian visitors can access my [Lattes CV by clicking here](http://lattes.cnpq.br/9783482448906646).
 
+Amongst my research interests:
+
 Mechanisms of receptor-ligand/host-guest binding
 ======
 

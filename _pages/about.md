@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guilherme Duarte, Ph. D."
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

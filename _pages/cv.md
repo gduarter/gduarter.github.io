@@ -13,11 +13,15 @@ Education
 ======
 * Ph.D in Chemistry, University of California, Irvine, 2018
 
-    * Thesis Topics: hydration and solvation free energies of small organic molecules of pharmacological interest; prediction of solubility of molecular solids from absolute free energy calculations; reproducibility of relative hydration calculations across different software; use of infinite dilution activity coefficients as alternative parameters for force field and method development. Adviser: David L. Mobley
+    * Thesis Topics: hydration and solvation free energies of small organic molecules of pharmacological interest; prediction of solubility of molecular solids from absolute free energy calculations; reproducibility of relative hydration calculations across different software; use of infinite dilution activity coefficients as alternative parameters for force field and method development. 
+
+    * Adviser: David L. Mobley
 
 * M.S. in Chemistry, Universidade de Brasília, 2013
 
-    * Dissertation Topic: use of conceptual DFT and molecular fingerprints obtained from ab initio calculations to predict reaction paths to understand the reactivity of ambidented nucleofiles. Advisers: Fernando C. Rangel and Kleber C. Mundim
+    * Dissertation Topic: use of conceptual DFT and molecular fingerprints obtained from ab initio calculations to predict reaction paths to understand the reactivity of ambidented nucleofiles. 
+
+    * Advisers: Fernando C. Rangel and Kleber C. Mundim
 
 * B.S. in Chemistry, Universidade de Brasília, 2011
 
@@ -45,11 +49,11 @@ Worked with free energy calculations in systems of pharmacological interest – 
 Certifications
 ======
 * 2018: Improv for Teaching, U. C. Irvine (10h)
-* 2018: Ativate to Captivate, U. C. Irvine (16h)
+* 2018: Activate to Captivate, U. C. Irvine (16h)
 * 2017: Fundamentals of Business Analysis, U. C. Irvine (25h)
 * 2016: Principles of Financial Analysis, U. C. Irvine (30h)
 * 2016: The Business of Science: Core Professional Skills, SciPhD Certificate Program (40h)
-* 2010: Nuclear Magnetic Resonance: theory and practice, NMR Users Association, AUREMN (72h)
+* 2010: Nuclear Magnetic Resonance: theory and practice, NMR Users Association (AUREMN) (72h)
 * 2008: C/C++, Universidade de Brasília (21h)
 
 Publications

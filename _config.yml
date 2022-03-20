@@ -10,7 +10,7 @@ locale                   : "pt-BR"
 title                    : "Guilherme Duarte Ph.D."
 title_separator          : "-"
 name                     : &name "Guilherme Duarte"
-description              : &description "Cientista, flâneur"
+description              : &description "Scientist, flâneur"
 url                      : https://gduarter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gduarter/gduarter.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Guilherme Duarte"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. in Chemistry, UC Irvine (2018). Interested in receptor-ligand/host-guest binding under a physical organic chemistry perspective."
+  location         : "Brasília, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=7VqvonsAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Guilherme-Duarte-Ramos-Matos"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "gduarter"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "doc_duarte"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/gduarter/"
+  orcid            : "https://orcid.org/0000-0002-7425-3567"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "gduarterPhD"
   vine             :
   weibo            :
   xing             :

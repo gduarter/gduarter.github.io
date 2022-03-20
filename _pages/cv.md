@@ -28,17 +28,7 @@ Work experience
 
   * Department of Applied Mathematics and Statistics, SUNY Stony Brook.
 
-  * Duties included:
-        * The Rizzo Lab works with protein-ligand docking and with the development of the DOCK6 software.
-
-        * Design of drugs targeting the 6-HB subdomain of the SARS-CoV-2 spike protein.
-
-        * Implementation of descriptor-driven de novo design methodology using an RDKit interface with DOCK6.
-
-        * Directly mentored two graduate students, Steven Pak and Christopher Corbo (2020-2021). Assisted in mentoring two senior graduate students, Lauren Prentis and John Bickel (2019-2021).
-
-        * Taught AMS 535 and AMS 536.
-
+  * Duties included: The Rizzo Lab works with protein-ligand docking and with the development of the DOCK6 software. Design of drugs targeting the 6-HB subdomain of the SARS-CoV-2 spike protein. Implementation of descriptor-driven de novo design methodology using an RDKit interface with DOCK6. Directly mentored two graduate students, Steven Pak and Christopher Corbo (2020-2021). Assisted in mentoring two senior graduate students, Lauren Prentis and John Bickel (2019-2021). Taught AMS 535 and AMS 536.
   * Supervisor: Prof. Robert C. Rizzo
 
 * 2013-2015: Research Assistant
@@ -46,21 +36,10 @@ Work experience
   * Department of Chemistry, University of California, Irvine.
 
   * Duties included:
-
-        * Worked with free energy calculations in systems of pharmacological interest – solvation free energies of small organic molecules and solubility prediction from absolute chemical potentials of molecular solids and their solution phases.
-
-        * Innovated by using infinite dilution activity coefficients as alternatives to hydration free energies as method validation tools.
-
-        * Curated and updated FreeSolv, the hydration free energy database, with the addition of hydration enthalpies and entropies.
-
-        * Mentored two undergraduate students, Daisy Y. Kyu (2015-2016), Nam Thi (2016).
-
-        * Taught CHEM H2LA, H2LB, 138, 1LC and PHARMSCI 170B.
-
+Worked with free energy calculations in systems of pharmacological interest – solvation free energies of small organic molecules and solubility prediction from absolute chemical potentials of molecular solids and their solution phases. Innovated by using infinite dilution activity coefficients as alternatives to hydration free energies as method validation tools. Curated and updated FreeSolv, the hydration free energy database, with the addition of hydration enthalpies and entropies. Mentored two undergraduate students, Daisy Y. Kyu (2015-2016), Nam Thi (2016). Taught CHEM H2LA, H2LB, 138, 1LC and PHARMSCI 170B.
   * Supervisor: Professor David L. Mobley
 
 * 2013: Independent Scientific Consultant
-
   * Consulted for the work published by F. A. R. Silva and E. R. Maia on polymer-clay nanocomposites.
 
 Certifications
@@ -78,12 +57,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-[//]: # (Talks)
-[//]: # (======)
-[//]: # ( <ul>{% for post in site.talks %} )
-[//]: # (   {% include archive-single-talk-cv.html %})
-[//]: # ({% endfor %}</ul>)
   
 Teaching
 ======

@@ -18,24 +18,9 @@ Brazilian visitors can access my [Lattes CV by clicking here](http://lattes.cnpq
 
 Amongst my research and academic interests:
 
-Mechanisms of receptor-ligand/host-guest binding
-======
-
-
-
-Development of DOCK6
-======
-
-
-
-Free Energy calculations in Drug Design
-======
-
-
-
-Computer Literacy for Chemists
-======
-
-
+- Mechanisms of receptor-ligand/host-guest binding
+- Development of DOCK6, a protein-ligand docking software in partnership with SBU/UCSF
+- Free Energy calculations in Drug Design
+- Computer Literacy for Chemists
 
 

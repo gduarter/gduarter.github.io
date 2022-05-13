@@ -35,7 +35,7 @@ Work experience
   * Duties included: The Rizzo Lab works with protein-ligand docking and with the development of the DOCK6 software. Design of drugs targeting the 6-HB subdomain of the SARS-CoV-2 spike protein. Implementation of descriptor-driven de novo design methodology using an RDKit interface with DOCK6. Directly mentored two graduate students, Steven Pak and Christopher Corbo (2020-2021). Assisted in mentoring two senior graduate students, Lauren Prentis and John Bickel (2019-2021). Taught AMS 535 and AMS 536.
   * __Supervisor:__ Prof. Robert C. Rizzo
 
-* __2013-2015: Research Assistant__
+* __2013-2018: Research Assistant__
 
   * Department of Chemistry, University of California, Irvine.
 

@@ -28,6 +28,18 @@ Education
 
 Work experience
 ======
+* __2021-Present: Visiting Scholar__
+
+  * Department of Applied Mathematics and Statistics, SUNY Stony Brook
+
+  * Duties included: Development and resting of DOCK6's descriptor-driven de novo design algorithm.
+
+* __2022-Present: Voluntary Professor__
+
+  * Instituto de Química, Universidade de Brasília (UnB).
+
+  * Duties included: Joined the LMSC (Laboratório de Modelagem de Sistemas Complexos) to assist the design NLO materials and to continue my personal research on 5-HT receptors. Taught IQD1010. 
+
 * __2019-2021: Postdoctoral Fellow__
 
   * Department of Applied Mathematics and Statistics, SUNY Stony Brook.
@@ -92,14 +104,13 @@ Skills
 * Programming languages:
   * C++, Python, Shell scripting, LaTeX
 * Computational Chemistry software:
-  * GROMACS, DOCK6, RDKit, Ambertools, OpenMM, Gaussian, GAMESS, Psi4, Spartan
+  * GROMACS, DOCK6, RDKit, Ambertools, OpenMM, Psi4, Spartan, Gaussian, GAMESS
 
 Non-Academic Interests
 ======
 * World History and Classical Art.
 * Language learning.
 * Financial Engineering.
-* Remote teaching.
 * Cooking.
 
 

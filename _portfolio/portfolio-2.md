@@ -1,4 +1,3 @@
-
 ---
 title: "O quê devo instalar na minha estação de trabalho?"
 excerpt: "Instalação do Miniconda e outros programas importantes para simulações moleculares"

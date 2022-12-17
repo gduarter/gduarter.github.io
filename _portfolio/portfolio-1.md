@@ -1,4 +1,3 @@
-
 ---
 title: "BASH scripting para principiantes"
 excerpt: "Tutorial de BASH scripting para alunos de iniciação científica e pós-graduação"

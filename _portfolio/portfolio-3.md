@@ -627,10 +627,9 @@ gen_vel                 = no        ; usar velocidades geradas da etapa NPT
 ```
 
 
-Por último, temos a etapa de **produção**, que tem os mesmos parâmetros da etapa de equilibração NPT2, mas com a restrição de movimento no esqueleto da proteína.
+Por último, temos a etapa de **produção**, que tem os mesmos parâmetros da etapa de equilibração NPT2, mas nenhuma restrição aplicada no sistema.
 
 ```bash
-define                  = -DPOSRES
 ; Run parameters
 integrator              = sd        ; Integrador de Langevin
 nsteps                  = 5000000   ; 10 ns

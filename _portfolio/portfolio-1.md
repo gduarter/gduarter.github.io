@@ -4,9 +4,7 @@ excerpt: "Tutorial de BASH scripting para alunos de iniciação científica e p�
 collection: portfolio
 ---
 
-#Bash Scripting
-
-##Bourne-Again Shell (Bash)
+## Bourne-Again Shell (Bash)
 
 Bash é um acrônimo para “Bourne-Again Shell”, o nome de um interpretador de
 código e uma linguagem de programação bastante usada em Química Computacional.

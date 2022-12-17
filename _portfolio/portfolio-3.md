@@ -1,6 +1,6 @@
 ---
 title: "Dinâmica molecular de proteína e ligante em solvente "
-excerpt: "Tutorial de preparação para docking de ligante em proteína "
+excerpt: "Tutorial de dinâmica molecular para avaliar a estabilidade da pose de um ligante dentro do sítio ativo de uma proteína."
 collection: portfolio
 ---
 

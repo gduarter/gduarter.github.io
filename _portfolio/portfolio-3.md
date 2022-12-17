@@ -1,3 +1,9 @@
+---
+title: "Dinâmica molecular de proteína e ligante em solvente "
+excerpt: "Tutorial de preparação para docking de ligante em proteína "
+collection: portfolio
+---
+
 # Tutorial simulações proteína + ligante + solvente
 
 Created: March 18, 2022 11:01 AM

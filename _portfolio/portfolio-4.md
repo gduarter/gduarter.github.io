@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 3"
+title: "Preparação para docking com o DOCK 6"
 excerpt: "Tutorial de preparação para docking de ligante em proteína "
 collection: portfolio
 ---

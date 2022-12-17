@@ -4,10 +4,6 @@ excerpt: "Tutorial de dinâmica molecular para avaliar a estabilidade da pose de
 collection: portfolio
 ---
 
-# Tutorial simulações proteína + ligante + solvente
-
-Created: March 18, 2022 11:01 AM
-Updated: December 16, 2022 9:53 PM
 
 ## **Introdução**
 

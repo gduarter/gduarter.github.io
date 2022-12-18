@@ -202,7 +202,9 @@ normalmente é incluída no final da definição de cada espécie, antes da nova
 ```bash
 gmx genrestr -f ${PDB}.gro -o posres.itp
 ```
-É costume selecionar a opção `Protein-H`, isto é, todos os átomos da proteína que não sejam hidrogênio. Para fazer o mesmo com o ligante é necessário primeiramente criar um arquivo de índice que indica somente os átomos que não são hidrogênio:
+É costume selecionar a opção `Protein-H`, isto é, todos os átomos da proteína que não sejam hidrogênio. 
+Outra opção para quem quiser garantir a acomodação das cadeias laterais é restringir somente o esqueleto (opção `Backbone`). 
+Para restringir o movimento de átomos pesados do ligante é necessário primeiramente criar um arquivo de índice que indica somente os átomos que não são hidrogênio:
 ```bash
 gmx make_ndx -f ${PDB}.gro -o index_lig.ndx
 ```

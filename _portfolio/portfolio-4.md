@@ -64,8 +64,8 @@ source leaprc.DNA.bsc1
 loadamberparams frcmod.ions234lm_126_tip3p
 loadamberparams frcmod.ions1lm_126_tip3p
 loadamberparams frcmod.tip3p
-REC = loadpdb ${path_to_file}/${PDB}.rec.noH.pdb
-saveamberparm REC ${PDB}.rec.prmtop ${1PDB}.rec.inpcrd
+REC = loadpdb ../001.initial_files/${PDB}.rec.noH.pdb
+saveamberparm REC ${PDB}.rec.prmtop ${PDB}.rec.inpcrd
 charge REC
 quit
 EOF

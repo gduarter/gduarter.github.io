@@ -206,7 +206,7 @@ gmx genrestr -f ${PDB}.gro -o posres.itp
 Outra opção para quem quiser garantir a acomodação das cadeias laterais é restringir somente o esqueleto (opção `Backbone`). 
 Para restringir o movimento de átomos pesados do ligante é necessário primeiramente criar um arquivo de índice que indica somente os átomos que não são hidrogênio:
 ```bash
-gmx make_ndx -f ${PDB}.gro -o index_lig.ndx
+gmx make_ndx -f ${PDB}.gro -o index.ndx
 ```
 No programa `gmx make_ndx` você escolhe a opção do ligante:
 ```bash

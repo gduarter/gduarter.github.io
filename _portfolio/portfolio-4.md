@@ -220,7 +220,10 @@ gmx genrestr -f ${PDB}.gro -n index_lig.ndx -o posre_lig.itp
 selecionando a opção que você gerou (algo como `LIG_&_!H*`. Isso gerará o arquivo desejado. Caso haja cofatores, é possível considerá-los parte da proteína, basta fazer as modificações textuais adequadas nos arquivos `.ndx` gerados.
 
 *Importante!*
-Os arquivos `.itp` precisam ser numerados a partir de 1 e não do número do `.gro` do sistema. Se for uma subestrutura da proteína, às vezes pode ser necessário renumerar usando um script de python específico.
+Os arquivos `.itp` precisam ser numerados a partir de 1 e não do número do `.gro` do sistema. Se for uma subestrutura da proteína, às vezes pode ser necessário renumerar usando um script de python específico:
+```bash
+python ${path_to_script}/fix_itp.py -i posres.itp
+```
 
 
 #### Simulações de dinâmica molecular

@@ -260,7 +260,7 @@ para selecionar a molécula de ligante. Apague-a com:
 ```
 Actions > Atoms/Bonds > delete
 ```
-Remanescerá a estrutura do receptor. Salve-a como `${PDB}.rec.pdb`. Apague todos os átomos de hidrogênio por meio da sequência:
+Remanescerá a estrutura do receptor. Salve-a como `${PDB}.rec.withH.pdb`. Apague todos os átomos de hidrogênio por meio da sequência:
 ```
 Select > Chemistry > element > H
 Actions > Atoms/Bonds > delete
@@ -280,7 +280,7 @@ Ao terminar, salve o arquivo como `${PDB}.lig.charged.mol2` e use o script em py
 python ${path_to_script}/fix_charges.py -m ${PDB}.lig.charged.mol2
 ```
 
-Para preparar o receptor, abra `${PDB}.rec.pdb` e faça:
+Para preparar o receptor, abra `${PDB}.rec.withH.pdb` e faça:
 ```
 Tools > Structure Editing > Dock Prep
 ```

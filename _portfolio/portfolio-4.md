@@ -54,10 +54,9 @@ python ${path_to_script}/fix_charges.py -m ${PDB}.lig.charged.mol2
 
 O preparo do receptor exige uma etapa de minimização, equilibração NVT e minimização com a presença do ligante (e do cofator) para que as cadeias laterais se acomodem apropriadamente. Quando o PDB em questão tem resolução < 2 angström, somente a minimização basta. Recomenda-se que estruturas obtidas de cryo-EM passem pelas três etapas de preparo.
 
-Entre no diretório `003.rec_prep` e execute o script `001.create_gromacs_mdps.dockprep.sh` para criar os arquivos necessários para a criação dos arquivos de entrada do software GROMACS, de dinâmica molecular.
-Inicialmente crie um arquivo para ser lido pelo `tleap`:
+Entre no diretório `003.rec_prep` e crie um arquivo para ser lido pelo `tleap`:
 ```bash
-echo <<EOF > ${PDB}.rec.leap.in
+cat <<EOF > ${PDB}.rec.leap.in
 set default PBradii mbondi2
 source oldff/leaprc.ff14SB
 source leaprc.DNA.bsc1
@@ -187,7 +186,7 @@ Copie os arquivos `.gro` e `.top` para a pasta `005.gmx_prep`.
 
 ### Equilibração pré-docking
 
-Para criar os arquivos `.mdp` da minimização e da dinâmica, execute o script:
+Para criar os arquivos `.mdp` da minimização e da dinâmica, execute o script em `005.gmx_prep`:
 ```bash
 bash ${path_to_script}/create_gromacs_mdps.dockprep.sh
 ```

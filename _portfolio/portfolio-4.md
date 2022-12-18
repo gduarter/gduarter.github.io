@@ -39,7 +39,7 @@ Ainda usando o Chimera, adicione átomos de hidrogênio em todas as estruturas e
 Crie arquivos `.mol2` para o ligante usando o programa Antechamber do pacote AmberTools:
 
 ```
-antechamber -fi pdb -fo mol2 -c bcc -at sybyl -i ${PDB}.lig.withH.pdb -o ${PDB}.lig.charged.mol2 -rn LIG -nc ${carga}.
+antechamber -fi pdb -fo mol2 -c bcc -at sybyl -i ${PDB}.lig.withH.pdb -o ${PDB}.lig.charged.mol2 -rn LIG -nc ${carga}
 ```
 
 Observe que `${carga}` deve ser substituída pela carga do ligante e o mesmo procedimento deve ser feito para o cofator, caso exista. O script `fix_charges.py` pode ser usado para consertar pequenas eventuais falhas de ajuste do programa `sqm` associado ao Antechamber.
@@ -47,6 +47,7 @@ Observe que `${carga}` deve ser substituída pela carga do ligante e o mesmo pro
 ```bash
 python ${path_to_script}/fix_charges.py -m ${PDB}.lig.charged.mol2
 ```
+Transfira o arquivo `${PDB}.lig.charged.mol2` para a pasta `002.lig_prep`.
 
 *Importante!* A ferramenta `dockprep` do UCSF Chimera pode determinar a carga total do ligante e preparar os arquivos da simulação, mas não é recomendado para trabalhos com vistas a publicações. Se for usá-lo, use para dados preliminares.
 

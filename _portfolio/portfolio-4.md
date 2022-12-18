@@ -23,7 +23,7 @@ Salve o arquivo `.pdb` e todas as informações iniciais importantes na pasta `0
 ### Preparação de ligante e cofator, se existir
 Use o UCSF Chimera para isolar a estrutura do receptor, do ligante e do cofator como
 
-- `${PDB}.pro.pdb`, para a proteína
+- `${PDB}.pro.noH.pdb`, para a proteína
 - `${PDB}.lig.pdb`, para o ligante
 - `${PDB}.cof.pdb`, para o cofator, caso exista.
 
@@ -34,7 +34,7 @@ Ainda usando o Chimera, adicione átomos de hidrogênio em todas as estruturas e
 - `${PDB}.lig.withH.pdb`, para o ligante
 - `${PDB}.cof.withH.pdb`, para o cofator, caso exista.
 
-*Observação:* Caso não haja cofator, renomeie o arquivo do receptor proteico para `${PDB}.rec.pdb`
+*Observação:* Caso não haja cofator, renomeie o arquivo do receptor proteico para `${PDB}.rec.noH.pdb`
 
 Crie arquivos `.mol2` para o ligante usando o programa Antechamber do pacote AmberTools:
 

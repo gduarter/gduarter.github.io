@@ -216,7 +216,7 @@ No programa `gmx make_ndx` você escolhe a opção do ligante:
 ```
 onde `${número do ligante}` é uma das opções impressas na tela. Esse comando selecionará somente os átomos que não sejam hidrogênio do ligante e os distinguirá no arquivo `index_lig.ndx`. Você pode criar as restrições para esses átomos usando o `gmx genrestr`:
 ```bash
-gmx genrestr -f ${PDB}.gro -n index_lig.ndx -o posre_lig.itp
+gmx genrestr -f ${PDB}.gro -n index.ndx -o posres_lig.itp
 ```
 selecionando a opção que você gerou (algo como `LIG_&_!H*`. Isso gerará o arquivo desejado. Caso haja cofatores, é possível considerá-los parte da proteína, basta fazer as modificações textuais adequadas nos arquivos `.ndx` gerados.
 
@@ -364,6 +364,7 @@ attractive_exponent                       6
 repulsive_exponent                        12
 distance_dielectric                       yes
 dielectric_factor                         4
+allow_non_integral_charges                yes
 bump_filter                               yes
 bump_overlap                              0.75
 receptor_file                             ../006.dockprep/${PDB}.rec.charged.mol2

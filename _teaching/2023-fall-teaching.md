@@ -8,7 +8,14 @@ date: 2023-07-07
 location: "Brasília, Brazil"
 ---
 
-Lower-division Physical-Chemistry course intending to introduce the students to important concepts of Quantum Mechanics that are frequently used in Chemistry. **Program:** Classical wave equation. Planck's hypothesis and the photoelectric effect. Hydrogen atomic spectrum and Bohr's atomic model.  Wave-particle duality. Quantum states, operators and physical observables. Uncertainty relations. Schrödinger's Equation. Free particle and tunneling. Particle in a box. Quantum harmonic oscillator. Rigid Rotor. Hydrogen Atom. Spin. Multielectron atoms. **Recommended textbooks:** H. Moysés Nussenzveig, Curso de Física Básica 4: Ótica, Relatividade e Física Quântica, Editora Edgard Blücher, 1997. Donald A. McQuarrie e John D. Simon, Physical Chemistry: a molecular approach, University Science Books, 1997. Richard P. Feynman, Robert B. Leighton e Matthew Sands (2010), The Feynman Lectures on Physics 3: Quantum Mechanics, Basic Books.
+Lower-division Physical-Chemistry course intending to introduce the students to important concepts of Quantum Mechanics that are frequently used in Chemistry. 
+
+**Program:** Classical wave equation. Planck's hypothesis and the photoelectric effect. Hydrogen atomic spectrum and Bohr's atomic model.  Wave-particle duality. Quantum states, operators and physical observables. Uncertainty relations. Schrödinger's Equation. Free particle and tunneling. Particle in a box. Quantum harmonic oscillator. Rigid Rotor. Hydrogen Atom. Spin. Multielectron atoms. 
+
+**Recommended textbooks:** 
+- H. Moysés Nussenzveig, _Curso de Física Básica 4: Ótica, Relatividade e Física Quântica_, Editora Edgard Blücher, 1997. 
+- Donald A. McQuarrie e John D. Simon, _Physical Chemistry: a molecular approach_, University Science Books, 1997. 
+- Richard P. Feynman, Robert B. Leighton e Matthew Sands, _The Feynman Lectures on Physics 3: Quantum Mechanics_, Basic Books, 2010.
 
 **Lecture notes** (Portuguese language)
 - [Lecture 01](http://gduarter.github.io/files/iqm/aula001.pdf)

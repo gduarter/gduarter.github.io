@@ -8,7 +8,13 @@ date: 2022-11-07
 location: "Brasília, Brazil"
 ---
 
-Upper-division Physical-Chemistry course intending to deepen the understanding of chemical phenomena by making connections between classical thermodynamics and the microscopic world. Focus on the study of equilibrium states and their stability. **Program:** The basic problem of Thermodynamics. Defining equilibrium and the four postulates. Microscopic interpretation of entropy and energy. The Boltzmann distribution and the kinetic theory of gases. Condensed phases and intermolecular interactions. Euler equations and Gibbs-Duhem relations. Reversibility and maximum work. Thermodynamic potentials and Legendre transforms. Extremum principle in all representations. Free energies and experimental conditions. Maxwell relations. Stability of thermodynamic systems. **Recommended textbooks:** H. B. Callen, Thermodynamics and an introduction to thermostatistics. K. A. Dill and S. Bromberg, Molecular Driving Forces. 
+Upper-division Physical-Chemistry course intending to deepen the understanding of chemical phenomena by making connections between classical thermodynamics and the microscopic world. Focus on the study of equilibrium states and their stability. 
+
+**Program:** The basic problem of Thermodynamics. Defining equilibrium and the four postulates. Microscopic interpretation of entropy and energy. The Boltzmann distribution and the kinetic theory of gases. Condensed phases and intermolecular interactions. Euler equations and Gibbs-Duhem relations. Reversibility and maximum work. Thermodynamic potentials and Legendre transforms. Extremum principle in all representations. Free energies and experimental conditions. Maxwell relations. Stability of thermodynamic systems. 
+
+**Recommended textbooks:** 
+- H. B. Callen, _Thermodynamics and an introduction to thermostatistics_, segunda edição, John Wiley and Sons, 1985. 
+- K. A. Dill and S. Bromberg, _Molecular Driving Forces_, segunda edição,  Taylor and Francis, 2011. 
 
 **Lecture notes** (Portuguese language)
 - [Lecture 01](http://gduarter.github.io/files/termo/aula01.pdf)

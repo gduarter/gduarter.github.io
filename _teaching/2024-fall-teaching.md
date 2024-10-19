@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching
 venue: "Universidade de Brasília, Instituto de Química"
-date: 2024-10-21
+date: 2024-10-14
 location: "Brasília, Brazil"
 ---
 

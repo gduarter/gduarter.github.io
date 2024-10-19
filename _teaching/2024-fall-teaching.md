@@ -1,5 +1,5 @@
 ---
-title: "General Chemistry"
+title: "General Chemistry (IQD 0125)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching

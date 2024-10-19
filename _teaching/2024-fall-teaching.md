@@ -2,9 +2,9 @@
 title: "General Chemistry"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-fall-teaching
+permalink: /teaching/2024-fall-teaching
 venue: "Universidade de Brasília, Instituto de Química"
-date: 2023-07-07
+date: 2024-10-21
 location: "Brasília, Brazil"
 ---
 
